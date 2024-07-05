@@ -15,8 +15,6 @@
 
 ## Languages and Tools:
 
-## Languages and Tools:
-
 <p align="left">
   <!-- Languages -->
   <a href="https://golang.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
