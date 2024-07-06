@@ -11,7 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/divya-pamecha" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" alt="LinkedIn" height="40" width="40" />
+  </a>
 </p>
+
 
 ## Languages and Tools:
 
